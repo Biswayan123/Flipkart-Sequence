@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="FREE CRM Application Test Automation Test Suite">
+
+	<listeners>
+		<listener class-name="ExtentReportListener.ExtentReporterNG" />
+	</listeners>
+
+
+	<test name="Flipkart Search Test Cases">
+		<classes>
+			<class name="com.flipkart.qa.testcases.SearchAndFilterTest"></class>
+		</classes>
+	</test>
+</suite>

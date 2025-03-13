@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-02T21:25:25 IST" name="Default suite" finished-at="2024-03-02T21:25:57 IST" duration-ms="32737">
+    <groups>
+    </groups>
+    <test started-at="2024-03-02T21:25:25 IST" name="Default test" finished-at="2024-03-02T21:25:57 IST" duration-ms="32737">
+      <class name="com.flipkart.qa.testcases.SearchAndFilterTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.flipkart.qa.testcases.SearchAndFilterTest@35f26e72]" started-at="2024-03-02T21:25:25 IST" name="setup" finished-at="2024-03-02T21:25:29 IST" duration-ms="4136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="searchTest()[pri:1, instance:com.flipkart.qa.testcases.SearchAndFilterTest@35f26e72]" started-at="2024-03-02T21:25:29 IST" name="searchTest" finished-at="2024-03-02T21:25:57 IST" duration-ms="28265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.flipkart.qa.testcases.SearchAndFilterTest@35f26e72]" started-at="2024-03-02T21:25:57 IST" name="tearDown" finished-at="2024-03-02T21:25:57 IST" duration-ms="278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.flipkart.qa.testcases.SearchAndFilterTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
